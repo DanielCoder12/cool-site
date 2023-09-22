@@ -1,0 +1,77 @@
+/* SECTION element selectors */
+header {
+    background-color: #061130;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+main {
+    background-color: #061130;
+    display: flex;
+}
+
+
+
+
+/* SECTION class selectors  */
+
+.firstimage {
+    padding: 1rem 0 0 1.2rem;
+}
+
+.text {
+    padding: 1rem 1.2rem;
+    display: flex;
+    color: white;
+}
+
+.text>p {
+    padding: 0rem 1.5rem;
+}
+
+.chat {
+
+    min-height: 2rem;
+    border-radius: 10px;
+    color: white;
+    background-color: #1C4BC4;
+
+}
+
+.map {
+    display: flex;
+    width: 50vw;
+    padding: 8rem 5rem 7rem 5rem;
+}
+
+.mappadding {
+    padding: 6rem;
+
+}
+
+.maptext {
+    display: block;
+    color: white;
+    width: 50vw;
+    font-size: 1.5em;
+}
+
+.services {
+
+    color: #FAFD61;
+}
+
+.linktext {
+    padding: 3rem 5rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottomtext {
+    font-size: 1.5em;
+    background-color: #F4F6F8;
+    display: block;
+    text-align: center;
+    padding: 5rem 0rem;
+}
